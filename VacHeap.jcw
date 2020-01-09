@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>VacHeap</label>
+	</settings>
+	<users>
+		<user>
+			<path>VacHeap.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Main\Main.jcp</path>
+		</project>
+		<project>
+			<path>VacHeap.jcp</path>
+		</project>
+	</projects>
+</workspace>
